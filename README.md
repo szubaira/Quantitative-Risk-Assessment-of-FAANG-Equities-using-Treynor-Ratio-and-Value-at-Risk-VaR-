@@ -37,7 +37,3 @@ Based on the quantitative analysis, the FAANG portfolio offers a competitive ris
 
 * **Stress Testing**: Expand the model to include Monte Carlo simulations to project portfolio performance under various macroeconomic scenarios.
 * **Correlation Analysis**: Calculate a correlation matrix between these assets to determine the actual diversification benefits within the FAANG group.
-
----
-
-**Would you like me to perform a sensitivity analysis to show how the total portfolio VaR changes if you reduce your exposure to Netflix?**
