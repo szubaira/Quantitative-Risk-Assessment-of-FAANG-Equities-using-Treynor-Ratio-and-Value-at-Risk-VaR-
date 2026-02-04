@@ -14,9 +14,8 @@ The analysis utilized a dataset of historical monthly returns for five major tec
 
 * **Data Points**: The dataset included monthly returns, standard deviation (STDEV), and Beta coefficients for each asset.
 * **Asset Metrics**:
-* **Monthly Returns**: Ranged from 1.46% (GOOG) to 3.32% (NFLX).
-* **Standard Deviation**: Market volatility (SPX) was recorded at 3.78%, while individual assets showed higher volatility, peaking at 12.06% for NFLX.
-
+  * **Monthly Returns**: Ranged from 1.46% (GOOG) to 3.32% (NFLX).
+  * **Standard Deviation**: Market volatility (SPX) was recorded at 3.78%, while individual assets showed higher volatility, peaking at 12.06% for NFLX.
 * **Limitations**: The analysis relies on historical performance as a proxy for future risk; however, historical data may not account for "Black Swan" events or sudden shifts in market regime.
 
 ### **Modeling and Evaluation**
