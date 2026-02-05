@@ -27,6 +27,8 @@ The project utilized two primary quantitative models to evaluate investment qual
 * **Evaluation Metrics**:
 * **Beta**: Used to quantify sensitivity to market movements; AMZN showed the highest sensitivity at 1.34.
 * **99% VaR**: Highlighted significant tail risk, with potential losses reaching -32.86% for NFLX and -23.41% for FB.
+<img width="528" height="381" alt="Screen Shot 2026-02-05 at 09 31 14" src="https://github.com/user-attachments/assets/7822b9d0-2c9f-4120-9ddb-11783b9f4526" />
+<img width="608" height="378" alt="Screen Shot 2026-02-04 at 21 30 59" src="https://github.com/user-attachments/assets/ce32ba91-e8a2-4d3d-92c3-3325509a1e60" />
 
 ### **Conclusion**
 
